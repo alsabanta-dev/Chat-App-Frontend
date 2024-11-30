@@ -1,1 +1,1 @@
-# Chat App Server Side
+# Chat App Client Side
